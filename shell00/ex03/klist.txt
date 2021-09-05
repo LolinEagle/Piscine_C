@@ -1,0 +1,5 @@
+Credentials cache: API:4579AC3A-DDDB-4C78-A5FC-3604CC432787
+        Principal: frrusso@42.FR
+
+  Issued                Expires               Principal
+Aug  3 17:54:12 2021  Aug 10 17:54:12 2021  krbtgt/42.FR@42.FR
